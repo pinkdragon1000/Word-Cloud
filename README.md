@@ -1,4 +1,4 @@
-# Word-Cloud
+# Word Cloud
 * A Word Cloud made with a couple Python packages.  
 
 
