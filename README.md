@@ -11,7 +11,7 @@ We can first analyze the frequencies of words using by creating a simple program
 * The common words are the biggest in the word cloud.  
 * These are the default colors for a word cloud.
 
-![](https://github.com/sitarobinson/Word-Cloud/blob/master/word%20cloud%20unmasked%20default%20colors.png)
+![](https://github.com/sitarobinson/Word-Cloud/blob/master/sherlockholmes.png)
 
 * Commonly when I think of Sherlock Holmes I think of everything in grayscale or black in white.  
 * I will also remove the common stopwords which are words that really do not have much meaning and that are very common in almost every text.   
