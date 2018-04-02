@@ -1,10 +1,9 @@
-# Word Cloud
+# Word Cloud of the Adventures of Sherlock Holmes By Sir Arthur Conan Doyle
 * A Word Cloud made with a couple Python packages.  
 * I used a Virtual Machine (VMware) to install packages and run Jupyter Notebook.  Since I have a Windows computer I do not have Linux directly on my computer.   
 
-## Word Cloud of the Adventures of Sherlock Holmes 
-By Sir Arthur Conan Doyle
 
+## Frequency Counter
 We can first analyze the frequencies of words using by creating a simple program in Python to count the number of each word.  This is shown in the file: [Click Here](https://github.com/sitarobinson/Word-Cloud/blob/master/The%20Adventures%20of%20Sherlock%20Holmes%20Frequency%20Counter.ipynb)
 
 ## Word Cloud without Check for Stopwords
