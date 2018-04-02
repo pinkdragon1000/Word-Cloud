@@ -5,6 +5,9 @@
 ## Simple Word Cloud of the Adventures of Sherlock Holmes 
 By Sir Arthur Conan Doyle
 
+We can first analyze the frequencies of words using by creating a simple program in Python to count the number of each word.  This is shown in the file: [Click Here](https://github.com/sitarobinson/Word-Cloud/blob/master/The%20Adventures%20of%20Sherlock%20Holmes%20Frequency%20Counter.ipynb)
+
+
 * The common words are the biggest in the word cloud.  
 * These are the default colors for a word cloud.
 
