@@ -1,6 +1,5 @@
 # Word Cloud of the Adventures of Sherlock Holmes By Sir Arthur Conan Doyle
 * A Word Cloud made with a couple Python packages.  
-* I used a Virtual Machine (VMware) to install packages and run Jupyter Notebook.  Since I have a Windows computer I do not have Linux directly on my computer.   
 
 
 ## Frequency Counter
