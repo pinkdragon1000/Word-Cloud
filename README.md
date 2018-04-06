@@ -22,4 +22,5 @@ We can first analyze the frequencies of words using by creating a simple program
 
 This is the masked word cloud with common stopwords removed:
 
-![](https://github.com/sitarobinson/Word-Cloud/blob/master/sherlockholmes%20masked.png)
+
+<img src="https://github.com/sitarobinson/Word-Cloud/blob/master/sherlockholmes%20masked.png" width="3000" height="445">
