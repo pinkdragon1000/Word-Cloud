@@ -19,3 +19,7 @@ We can first analyze the frequencies of words using by creating a simple program
 * We can also do something called masking which uses an image and constrains the distribution of words.  This technique makes the word cloud in the shape of the image.  For this example I've decided to use this image which is the silhouette of Sherlock Holmes: 
 
 <p align="center"><img src="https://github.com/sitarobinson/Word-Cloud/blob/master/sherlock.jpg" width="360" height="345"></p>
+
+This is the masked word cloud with common stopwords removed:
+
+![](https://github.com/sitarobinson/Word-Cloud/blob/master/sherlockholmes%20masked.png)
